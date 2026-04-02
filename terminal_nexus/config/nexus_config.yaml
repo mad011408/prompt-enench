@@ -1,0 +1,6 @@
+gemini:
+  api_key: "AIzaSyDxzcuwVpOy_2-Ze61AVduJHUVKTJKiaYc"
+  model: "gemini-2.5-pro"
+  base_url: "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent"
+  max_tokens: 600000
+  timeout_seconds: 800
